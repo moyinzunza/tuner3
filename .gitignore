@@ -1,0 +1,48 @@
+## Archivos de Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de build
+bin/
+obj/
+Generated\ Files/
+
+## Archivos de publicación
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+## Archivos de paquetes
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Configuración de usuario
+*.userprefs
+*.csproj.user
+
+## Archivos temporales y backups
+*.tmp
+*.bak
+*.log
+*.tlog
+*.cache
+*.swp
+*.scc
+
+## Archivos de pruebas
+TestResults/
+*.TestResults/
+*.VisualState.xml
+*.cachefile
+
+## Archivos del sistema
+.DS_Store
+Thumbs.db
+eh
